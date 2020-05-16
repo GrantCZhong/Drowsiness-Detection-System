@@ -1,6 +1,7 @@
 # APM-Drowsiness-Detection 
-By Gaurav Choudhary, Aurangzaib Ahmed Siddiqui, He Wang, Rui Ying, Grant Zhong
+By Grant Zhong, Gaurav Choudhary, Aurangzaib Ahmed Siddiqui, He Wang, Rui Ying
 
-The problem that our team is tackling is drowsiness detection. Drowsiness in the workplace, classroom, or on the road may lead to severe consequences and may even put the lives of many in danger. An effective solution that detects early stages of drowsiness may improve overall safety and human productivity with business applications in several domains. 
+My team and I wanted to work on a challenging and relevant problem in the world right now and leverage advanced predictive modeling techniques to detect early signs of drowsiness. This is our detection system and a link to our blog is provided below.
 
-Link to Our Blog https://medium.com/@grantzhong/765a16ca208a?
+
+Link to Our Blog https://towardsdatascience.com/drowsiness-detection-with-machine-learning-765a16ca208a
